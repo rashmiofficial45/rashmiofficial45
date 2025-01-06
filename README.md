@@ -7,8 +7,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmiofficial45&show_icons=true&locale=en" alt="rashmiofficial45" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmiofficial45&" alt="rashmiofficial45" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmiofficial45&show_icons=true&locale=en&layout=compact" alt="rashmiofficial45" /></p>
 
 
