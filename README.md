@@ -12,7 +12,7 @@
 
 ### 🛠️ About Me
 - 🌱 Currently learning **Next.js & Microservices Architecture**
-- 💬 Ask me about **React, Node.js, TypeScript, Convex, Sanity, Next.js**
+- 💬 Ask me about **React, Node.js, TypeScript, Convex, Sanity, Next.js, Redis**
 - 📫 Reach me at **rashmiofficial45@gmail.com**
 - ⚡ Fun fact: **I love debugging more than coding!**
 
